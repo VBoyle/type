@@ -1,0 +1,56 @@
+/* Place CSS styles here */
+*{
+    margin: 0px;
+    margin-right: 0px;
+    padding: 0px;
+    }
+    
+
+html { 
+    background: url(https://c1.wallpaperflare.com/preview/880/231/618/tree-mist-fog-cloudy.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+div {
+    width: 900px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #f3f5f0;
+    overflow: hidden;
+}
+
+h1 {font-family: "Josefin Sans", sans-serif;font-weight: 500; font-size: 17px;font-style: normal;margin-left: 20px; margin-top: 15px;margin-right: 20px;color:rgb(8, 32, 24) }
+h2 {font-family: "Inter", sans-serif;font-weight: 600;font-style: normal;margin-left: 20px; margin-top: 50px;color:rgb(8, 32, 24)}
+h3 {font-family: "Inter", sans-serif;font-weight: 600; font-size: 20px;font-style: normal;margin-left: 20px;color:rgb(8, 32, 24)}
+
+.left {
+    text-align: left;
+    float: left;
+    clear: none;
+    width: 50%;
+}
+.right {
+    text-align: right;
+    float: right;
+    clear: none;
+    width: 50%;
+}
+
+img {
+    display: block;
+    margin-left: 550px;
+    margin-top: 20px;
+  }
+img {
+    position: absolute;
+    top: 0 px;
+    left: 0 px;
+    z-index: 1;
+}
+
+
+
