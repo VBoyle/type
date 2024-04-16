@@ -15,7 +15,7 @@ html {
   }
 
 div {
-    width: 1000px;
+    width: 1500px;
     margin-top: 20px;
     margin-right: auto;
     margin-left: auto;
@@ -25,11 +25,12 @@ div {
     justify-content: space-between;
 }
 
-h1 {font-family: "skolar-latin", serif; font-weight: 700; font-style: normal; margin-left: 20px; margin-top: 15px;margin-right: 20px;color:rgb(8, 32, 24) }
-h2 {font-family: "skolar-latin", serif; font-weight: 400; font-style: normal;margin-left: 20px; margin-top: 50px;color:rgb(8, 32, 24)}
-h3 {font-family: "skolar-latin", serif; font-weight: 400; font-style: italic;margin-left: 20px;color:rgb(8, 32, 24)}
+h1 {font-family: "skolar-latin", serif; font-weight: 700; font-style: normal;font-size: 150px; margin-left: 20px; margin-top: 15px;color:rgb(238, 242, 245);-webkit-text-stroke: 5px black}
+h2 {font-family: "skolar-latin", serif; font-weight: 400; font-style: normal; margin-left: -320px; margin-top: 200px;color:rgb(8, 32, 24)}
+h3 {font-family: "skolar-latin", serif; font-weight: 400; font-style: italic;margin-top: 240px; margin-right: 20px; margin-left:-110px; color:rgb(8, 32, 24)}
+h4 {font-family: "skolar-latin", serif; font-weight: 700; font-style: normal;letter-spacing: 0.2em; font-size: 30px;margin-top: 200px;margin-left: 100px; }
+h5 {font-family: "skolar-latin", serif; font-weight: 400; font-size: 20px;margin-left:140px ; margin-top: 50px;line-height: 2; color:rgb(8, 32, 24)}
 
-h2 {text-align: right;}
 
 
 
